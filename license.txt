@@ -1,0 +1,29 @@
+Plugins, images, icons, etc., used in this template is copyrighted to respective owners and it comes under their license.
+
+
+
+Framework
+--------------------------------
+Bootstrap - http://getbootstrap.com/
+jQuery - http://jquery.com/
+
+
+
+Plugin
+--------------------------------
+jQuery ScrollTo - http://flesler.com/jquery/scrollTo/
+Magnific Popup - http://dimsemenov.com/plugins/magnific-popup/
+MixItUp - http://mixitup.io/
+Gmaps - http://hpneo.github.io/gmaps/
+Knob - http://anthonyterrien.com/knob/
+Parsley - http://parsleyjs.org/
+Twitter Fetcher - http://jasonmayes.com/projects/twitterApi/
+
+
+
+Images, Fonts, Icons etc.
+--------------------------------
+Font Awesome - http://fortawesome.github.io/Font-Awesome/
+Google Fonts - http://www.google.com/fonts
+Pixabay - http://pixabay.com/en/
+Mock Up - http://dribbble.com/shots/984042-iPhone-iPad-Freebie-rebound-Thunderbolt
