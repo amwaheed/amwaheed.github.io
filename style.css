@@ -328,7 +328,6 @@ li.dummy.active { /* scrollspy fix */
 	width: 40%;
 	position: absolute;
 	right: 0;
-	bottom: -90px;
 	z-index: -1;
 }
 
